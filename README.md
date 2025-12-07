@@ -1,5 +1,5 @@
 # CSProjectGroup-6
-Group X – Members: Devashish Singh, Jashanpreet and Ajaypal Singh 
+Group– Members: Devashish Singh, Jashanpreet and Ajaypal Singh 
 
 ## Project Description
 This project contains two C# files: Program.cs and Patient.cs.
